@@ -13,7 +13,6 @@ See `test.py` for example usage, inculuding: forward pass, gradient check, and t
 Comparison with nn.Conv2d on a 16x128x128x128 input \
 Conv2d(in_channels=128, out_channels=128, kernel_size=3, stride=1, padding=1, dilation=1, groups=1, bias=True)
 
-Average time over 10 runs: Pytorch (μs): 5800.2046
-
+Average time over 10 runs: Pytorch (μs): 5800.2046 \
 Average time over 10 runs: deformconv (μs): 20601.4746
 
