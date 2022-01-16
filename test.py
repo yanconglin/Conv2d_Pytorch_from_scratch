@@ -123,12 +123,3 @@ if __name__ == '__main__':
         out = Conv2d_deformable(input)
         time_deformconv.stop()
     print(time_deformconv.__str__())
-
-
-
-
-    # """
-    # ****** Note: backward is not reentrant error may not be a serious problem,
-    # ****** since the max error is less than 1e-7,
-    # ****** Still looking for what trigger this problem
-    # """
