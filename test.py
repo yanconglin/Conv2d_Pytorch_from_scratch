@@ -97,6 +97,9 @@ def check_gradient_deformconv():
 
 if __name__ == '__main__':
     
+    print("Pytorch version: ", torch.__version__)
+    print("GPU version: ", torch.cuda.get_device_name())
+    
     run_conv()
     run_deformconv()
     run_comparison()
