@@ -1,4 +1,4 @@
-# torch.nn.Conv2d from scratch, based on Deformable-ConvNets-V2 in PyTorch
+# torch.nn.Conv2d from scratch, based on Deformable-ConvNets-V2
 
 Many thanks to the authors/developers from [mmdetection branch](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch).
 
