@@ -9,7 +9,7 @@ Many thanks to the authors/developers from [mmdetection branch](https://github.c
 python test.py (tested with Pytorch 1.7.0)
 ```
 
-See `test.py` for example usage, inculuding: forward pass, gradient check, and timing.
+See `test.py` for example usage, including: forward pass, gradient check, and timing.
 
 Comparison with nn.Conv2d on a 16x128x128x128 input \
 Conv2d(in_channels=128, out_channels=128, kernel_size=3, stride=1, padding=1, dilation=1, groups=1, bias=True)
