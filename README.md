@@ -1,7 +1,7 @@
 # torch.nn.Conv2d from scratch (im2col+GEMM)
 
-This implementaion is inherited from Deformable-ConvNets-V2.
-Many thanks to the authors/developers from [mmdetection branch](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch).
+This implementaion is inherited from [Deformable-ConvNets-V2](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch).
+Many thanks to the authors.
 
 ## Test
 
